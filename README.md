@@ -1,4 +1,4 @@
-# assessment
+# Assessment
 This demonsrates the building of a simple questionnaire with multiple sections and a forward button and uses admin forms for creation. No line of code was written. 
 
 After cloning the folder and going to edit folder
