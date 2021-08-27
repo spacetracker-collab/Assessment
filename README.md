@@ -11,3 +11,7 @@ After cloning the folder and going to edit folder
 7) 5 questions have been added
 8) More can be added in the Forms section of http://localhost:8000/admin/
 
+Work done by Radhika
+
+Architecture diagram in Root Folder is by Ram
+
