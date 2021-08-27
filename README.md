@@ -14,6 +14,6 @@ After cloning the folder and going to edit folder
 
 Work done by Radhika
 
-Architecture diagram in Root Folder is by Ram (https://github.com/spacetracker-collab/Assessment/blob/main/EDIT%20Assessment%20Solution%20v0.1.jpg)
-Question Format by mutual discussion (https://github.com/spacetracker-collab/Assessment/blob/main/Question%20Format.png)
+1) Architecture diagram in Root Folder is by Ram (https://github.com/spacetracker-collab/Assessment/blob/main/EDIT%20Assessment%20Solution%20v0.1.jpg)
+2) Question Format by mutual discussion (https://github.com/spacetracker-collab/Assessment/blob/main/Question%20Format.png)
 
